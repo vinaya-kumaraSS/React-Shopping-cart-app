@@ -48,7 +48,7 @@ This project is a simple Shopping Cart application that allows users to add item
 
 ## Screenshots
 
-![App Screenshot](https://your-image-hosting-site.com/image.png](https://github.com/vinaya-kumaraSS/React-Shopping-cart-app/blob/main/image.png))
+![App Screenshot](https://github.com/vinaya-kumaraSS/React-Shopping-cart-app/blob/main/image.png)
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for improvements or bug fixes.
