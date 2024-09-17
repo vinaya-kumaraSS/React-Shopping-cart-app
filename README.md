@@ -9,17 +9,15 @@ This project is a simple Shopping Cart application that allows users to add item
 ## Features
 
 - Add items to the cart with name, price, and quantity.
-- Update item details (name, price, or quantity).
 - Calculate total price of the items in the cart.
 - Remove items from the cart.
-- Clear the entire cart with one click.
 - Display a summary of all items in the cart.
 
 ## Technologies Used
 
-- **Frontend:** Flutter (for mobile or web interface)
-- **Backend (Optional):** Firebase (for data storage) or a simple local data store (e.g., SQLite)
-- **State Management:** Provider or any preferred state management solution
+- **Frontend:** HTML, CSS, JavaScript
+- **Framework:** React.js (for building the UI components)
+- **State Management:** React Hooks or any preferred state management solution
 
 ## Installation
 
@@ -35,16 +33,10 @@ This project is a simple Shopping Cart application that allows users to add item
    cd shopping-cart-app
    ```
 
-3. Install the necessary dependencies:
+4. Run the app:
 
    ```bash
-   flutter pub get
-   ```
-
-4. Run the app on an emulator or physical device:
-
-   ```bash
-   flutter run
+   npm start
    ```
 
 ## Usage
@@ -52,13 +44,11 @@ This project is a simple Shopping Cart application that allows users to add item
 1. Open the app and navigate to the **Shopping Cart** page.
 2. Add new items by providing the item name, price, and quantity.
 3. View the total price at the bottom of the screen.
-4. Modify or remove items as needed.
-5. Clear the cart once you're done shopping.
+4. Remove items as needed.
 
 ## Screenshots
 
-_Include screenshots or GIFs showcasing your app's interface._
-
+![App Screenshot](./assets/screenshot.png)
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request for improvements or bug fixes.
